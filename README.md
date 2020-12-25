@@ -1,63 +1,27 @@
 <h4 align="center"> 
-	📌 Builder TCC 🚀demonstração básica de UI... 📌
+	 Criptografia RSA 🚀
 </h4>
 
 
 ## 💻 Sobre o projeto
 
-📝 Builder TCC - é uma plataforma criada principalmente para estudantes que estão desenvolvendo seus trabalhos de conclusão de curso. No Builder TCC é possível tranformar um texto comum em um texto com todas as formatações exigidas pela ABNT.
-
-
-## 🎨 Layout
-
-### Dashboard
-
-A dashboard é a página inicial que o usuário acessa, ela possui tema claro, escuro e outras features:
-
-| **Tema Escuro** | **Tema Claro** |
-|-----------------|----------------|
-| <img alt="Dashboard_Dark" title="#Dashboard Dark Mode" src="./images/dashboard_dark.png" width="800px"/> | <img alt="Dashboard_Light" title="#Dashboard Light Mode" src="./images/dashboard_light.png" width="800px"/> |
-
-|                                                                                                                                                    Modal de confirmação de ação:                                                                                                                                                    	|
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
-| Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade Editar ou Upload, a mensagem é apresentada aguardando a confirmação do usuário 	|
-| <p align="center"><img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" width="700px"/></p> |
-
-	
-|                                                    **Ocultar/Mostrar:**                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------:|
-|                       A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo                      |
-| <img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/> 	|
-
-
-### Funcionalidades
-Os usuários terão acesso a dashboard onde terão as seguinte opções:
-
-|                                      **Novo:**                                       	|
-|:---------------------------------------------------------------------------------:	|
-| Exibe um espaço em branco onde será possível mexer no documento adicionando texto 	|
-|        <img alt="Novo" title="#Novo" src="./images/document.png" width="700px"/>      |
-
-|                                      **Editar:**                                       	|
-|:---------------------------------------------------------------------------------:	        |
-| Apresenta um modal para carregamento de um arquivo com a extensão específica do Builder TCC 	|
-|          <img alt="Editar" title="#Editar" src="./images/dashboard-edit.png" width="700px"/>            |
-
-|                                      **Upload:**                                      |
-|:---------------------------------------------------------------------------------:	|
-| Apresenta um modal para carregamento de um arquivo com qualquer extensão de texto 	|
-|       <img alt="Upload" title="#Upload" src="./images/dashboard-upload.png" width="700px"/>       |
+🔐 Criptografia RSA - Trabalho de conclusão do segundo semestre da faculdade. A criptografia RSA é uma forma de criptografia muito conhecida que permite a transmissão segura de dados. Neste projeto de criptografia que desenvolvi, o sistema encripta a chave pública, ao mesmo tempo que gera a chave de decriptação, que é secreta (chave privada).
 
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [Vue.js](https://vuejs.org/)
-- [Vuetify](https://vuetifyjs.com/en/)
-- [Electron](https://www.electronjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
+- [Random](https://docs.python.org/3/library/random.html) (Biblioteca)
+- [Math](https://docs.python.org/3/library/math.html)
+- [Datetime](https://docs.python.org/3/library/datetime.html)
+- [Sys](https://docs.python.org/3/library/sys.html)
+- [os](https://docs.python.org/3/library/os.html)
+- [Shutil](https://docs.python.org/3/library/shutil.html)
+- [Getpass](https://docs.python.org/pt-br/3/library/getpass.html)
+- [Platform](https://docs.python.org/pt-br/3/library/platform.html)
+- [JSON](https://docs.python.org/3/library/json.html)
 
 
 ## 🚀 Como executar o projeto
