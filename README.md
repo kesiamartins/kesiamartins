@@ -15,6 +15,7 @@
 ## 🎨 Layout
 
 ### Dashboard
+
 A dashboard é a página inicial que o usuário acessa, ela possui tema claro, escuro e outras features:
 
 | **Tema Escuro** | **Tema Claro** |
@@ -26,17 +27,11 @@ A dashboard é a página inicial que o usuário acessa, ela possui tema claro, e
 |Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade **Editar** ou **Upload**, a mensagem é apresentada aguardando a confirmação do usuário |
 | <p align="center"><img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" width="700px"/></p> |
 
-<p align="center">
 	
-| **Ocultar/Mostrar:** |
-|-----------------|
-|A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo |
-| <p align="center"><img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/></p> |
-
-</p>
-
-
-  - **Ocultar/Mostrar:** A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo:
+|                                                    **Ocultar/Mostrar:**                                                    	|
+|-----------------------------------------------------------------------------------------------------------------------	|
+|                       A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo                      	|
+| <p align="center"><img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/></p> 	|
 
 
 ### Funcionalidades
