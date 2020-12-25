@@ -16,11 +16,11 @@
 
 ### Dashboard
 A dashboard é a página inicial que o usuário acessa, ela possui tema claro, escuro e outras features:
-  - **Tema Escuro**
-<img alt="Dashboard_Dark" title="#Dashboard Dark Mode" src="./images/dashboard_dark.png" width="200px"/>
 
-  - **Tema Claro**
-<img alt="Dashboard_Light" title="#Dashboard Light Mode" src="./images/dashboard_light.png" />
+| **Tema Escuro** | **Tema Claro** |
+|-----------------|----------------|
+| <img alt="Dashboard_Dark" title="#Dashboard Dark Mode" src="./images/dashboard_dark.png" width="800px"/> | <img alt="Dashboard_Light" title="#Dashboard Light Mode" src="./images/dashboard_light.png" width="800px"/> |
+
 
   - **Modal de confirmação de ação:** Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade **Editar** ou **Upload**, a mensagem é apresentada aguardando a confirmação do usuário
 <img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" />
