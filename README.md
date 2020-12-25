@@ -7,6 +7,25 @@
 
 🔐 Criptografia RSA - Trabalho de conclusão do segundo semestre da faculdade. A criptografia RSA é uma forma de criptografia muito conhecida que permite a transmissão segura de dados. Neste projeto de criptografia que desenvolvi, o sistema encripta a chave pública, ao mesmo tempo que gera a chave de decriptação, que é secreta (chave privada).
 
+## :heavy_exclamation_mark: Entendendo o projeto
+
+Abaixo temos uma tabela com algumas ações possíveis no sistema: 
+
+| Funcionalidade              	| Ações possíveis                                                                                                                                	| Imagem          	|
+|-----------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------	|
+|   Tela inicial do programa  	| Realizar login ou criar um novo registro                                                                                                       	| Image goes here 	|
+| Criar um novo registro      	| Informar um login e uma senha para criação do novo registro                                                                                    	| Image goes here 	|
+| Usuário logado              	| 1. Ler mensagem recebida ou enviada (decriptada)<br>2. Escrever mensagem para um usuário<br>3. Ver os créditos do programa<br>4. Fazer logoff  	| Image goes here 	|
+| Escrever mensagem 1         	| Escolher um usuário para enviar a mensagem                                                                                                     	| Image goes here 	|
+| Escrever mensagem 2         	| Escrever a mensagem a ser enviada                                                                                                              	| Image goes here 	|
+| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| Image goes here 	|
+| Ler mensagem 2              	| Ler a mensagem enviada para outro usuário (decriptada)                                                                                         	| Image goes here 	|
+| Logoff                      	| Usuário é retornado para Tela inicial do programa                                                                                              	| Image goes here 	|
+| Fazer login                 	| Informar o login e a senha do usuário que recebeu a mensagem                                                                                   	| Image goes here 	|
+| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| Image goes here 	|
+| Ler mensagem 2              	| Ler a mensagem recebida por outro usuário (decriptada)                                                                                         	| Image goes here 	|
+| Pasta src/banco             	| Abrir arquivo users.txt<br>Todos usuários criados são apresentados                                                                             	| Image goes here 	|
+| Pasta src/msgs/Nome-Usuário 	| Abrir arquivo .txt<br>A mensagem é exibida encriptada                                                                                          	| Image goes here 	|
 
 ## 🛠 Tecnologias
 
