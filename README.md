@@ -28,10 +28,10 @@ A dashboard é a página inicial que o usuário acessa, ela possui tema claro, e
 | <p align="center"><img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" width="700px"/></p> |
 
 	
-|                                                    **Ocultar/Mostrar:**                                                    	|
-|-----------------------------------------------------------------------------------------------------------------------	|
-|                       A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo                      	|
-| <p align="center"><img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/></p> 	|
+|                                                    **Ocultar/Mostrar:**                                                 |
+|:-----------------------------------------------------------------------------------------------------------------------:|
+|                       A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo                      |
+| <img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/> 	|
 
 
 ### Funcionalidades
