@@ -13,19 +13,19 @@ Abaixo temos uma tabela com algumas ações possíveis no sistema:
 
 | Funcionalidade              	| Ações possíveis                                                                                                                                	| Imagem          	|
 |-----------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------	|
-|   Tela inicial do programa  	| Realizar login ou criar um novo registro                                                                                                       	| Image goes here 	|
-| Criar um novo registro      	| Informar um login e uma senha para criação do novo registro                                                                                    	| Image goes here 	|
-| Usuário logado              	| 1. Ler mensagem recebida ou enviada (decriptada)<br>2. Escrever mensagem para um usuário<br>3. Ver os créditos do programa<br>4. Fazer logoff  	| Image goes here 	|
-| Escrever mensagem 1         	| Escolher um usuário para enviar a mensagem                                                                                                     	| Image goes here 	|
-| Escrever mensagem 2         	| Escrever a mensagem a ser enviada                                                                                                              	| Image goes here 	|
-| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| Image goes here 	|
-| Ler mensagem 2              	| Ler a mensagem enviada para outro usuário (decriptada)                                                                                         	| Image goes here 	|
-| Logoff                      	| Usuário é retornado para Tela inicial do programa                                                                                              	| Image goes here 	|
-| Fazer login                 	| Informar o login e a senha do usuário que recebeu a mensagem                                                                                   	| Image goes here 	|
-| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| Image goes here 	|
-| Ler mensagem 2              	| Ler a mensagem recebida por outro usuário (decriptada)                                                                                         	| Image goes here 	|
-| Pasta src/banco             	| Abrir arquivo users.txt<br>Todos usuários criados são apresentados                                                                             	| Image goes here 	|
-| Pasta src/msgs/Nome-Usuário 	| Abrir arquivo .txt<br>A mensagem é exibida encriptada                                                                                          	| Image goes here 	|
+|   Tela inicial do programa  	| Realizar login ou criar um novo registro                                                                                                       	| <img alt="Tela Inicial do Programa" title="#Tela Inicial do Programa" src="./images/1.png"/> 	|
+| Criar um novo registro      	| Informar um login e uma senha para criação do novo registro                                                                                    	| <img alt="Criar um novo registro" title="#Criar um novo registro" src="./images/4.png"/> 	|
+| Usuário logado              	| 1. Ler mensagem recebida ou enviada (decriptada)<br>2. Escrever mensagem para um usuário<br>3. Ver os créditos do programa<br>4. Fazer logoff  	| <img alt="Usuário logado" title="#Usuário logado" src="./images/5.png"/> 	|
+| Escrever mensagem 1         	| Escolher um usuário para enviar a mensagem                                                                                                     	| <img alt="Escrever mensagem 1" title="#Escrever mensagem 1" src="./images/6.png"/> 	|
+| Escrever mensagem 2         	| Escrever a mensagem a ser enviada                                                                                                              	| <img alt="Escrever mensagem 2" title="#Escrever mensagem 2" src="./images/7.png"/> 	|
+| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| <img alt="Ler mensagem 1" title="#Ler mensagem 1" src="./images/10.png"/> 	|
+| Ler mensagem 2              	| Ler a mensagem enviada para outro usuário (decriptada)                                                                                         	| <img alt="Ler mensagem 2" title="#Ler mensagem 2" src="./images/11.png"/> 	|
+| Logoff                      	| Usuário é retornado para Tela inicial do programa                                                                                              	| <img alt="Logoff" title="#Logoff" src="./images/13.png"/> 	|
+| Fazer login                 	| Informar o login e a senha do usuário que recebeu a mensagem                                                                                   	| <img alt="Fazer login" title="#Fazer login" src="./images/15.png"/> 	|
+| Ler mensagem 1              	| Selecionar uma mensagem a ser lida                                                                                                             	| <img alt="Ler mensagem 1" title="#Ler mensagem 1" src="./images/17.png"/> 	|
+| Ler mensagem 2              	| Ler a mensagem recebida por outro usuário (decriptada)                                                                                         	| <img alt="Ler mensagem 2" title="#Ler mensagem 2" src="./images/18.png"/> 	|
+| Pasta src/banco             	| Abrir arquivo users.txt<br>Todos usuários criados são apresentados                                                                             	| <img alt="Pasta src/banco" title="#Pasta src/banco" src="./images/19.png"/> 	|
+| Pasta src/msgs/Nome-Usuário 	| Abrir arquivo .txt<br>A mensagem é exibida encriptada                                                                                          	| <img alt="Pasta src/msgs/Nome-Usuário" title="#Pasta src/msgs/Nome-Usuário" src="./images/20.png"/> 	|
 
 ## 🛠 Tecnologias
 
