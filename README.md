@@ -68,26 +68,26 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Pré-requisitos
 
-Antes de começar, é  importante você ter previamente instalado em seu computador o [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
+Antes de começar, é  importante você ter previamente instalado em seu computador o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/). 
+Além disto, é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/)
 
 ### ⏳ Rodando a aplicação
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/iam-ianc/builder-tcc-demo
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
+$ cd builder-tcc-demo
 
 # Instale as dependências
-$ npm install
+$ npm install 
+OU
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run electron:serve
+OU
+$ yarn electron:serve
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
