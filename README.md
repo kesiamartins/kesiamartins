@@ -12,16 +12,18 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Python](https://www.python.org/)
-- [Random](https://docs.python.org/3/library/random.html) (Biblioteca)
-- [Math](https://docs.python.org/3/library/math.html)
-- [Datetime](https://docs.python.org/3/library/datetime.html)
-- [Sys](https://docs.python.org/3/library/sys.html)
-- [os](https://docs.python.org/3/library/os.html)
-- [Shutil](https://docs.python.org/3/library/shutil.html)
-- [Getpass](https://docs.python.org/pt-br/3/library/getpass.html)
-- [Platform](https://docs.python.org/pt-br/3/library/platform.html)
-- [JSON](https://docs.python.org/3/library/json.html)
+- Linguagem
+	- [Python](https://www.python.org/)
+- Bibliotecas
+	- [Random](https://docs.python.org/3/library/random.html)
+	- [Math](https://docs.python.org/3/library/math.html)
+	- [Datetime](https://docs.python.org/3/library/datetime.html)
+	- [Sys](https://docs.python.org/3/library/sys.html)
+	- [os](https://docs.python.org/3/library/os.html)
+	- [Shutil](https://docs.python.org/3/library/shutil.html)
+	- [Getpass](https://docs.python.org/pt-br/3/library/getpass.html)
+	- [Platform](https://docs.python.org/pt-br/3/library/platform.html)
+	- [JSON](https://docs.python.org/3/library/json.html)
 
 
 ## 🚀 Como executar o projeto
