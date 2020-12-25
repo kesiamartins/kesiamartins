@@ -22,9 +22,9 @@ A dashboard é a página inicial que o usuário acessa, ela possui tema claro, e
 |-----------------|----------------|
 | <img alt="Dashboard_Dark" title="#Dashboard Dark Mode" src="./images/dashboard_dark.png" width="800px"/> | <img alt="Dashboard_Light" title="#Dashboard Light Mode" src="./images/dashboard_light.png" width="800px"/> |
 
-| **Modal de confirmação de ação:** |
-|-----------------|
-|Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade **Editar** ou **Upload**, a mensagem é apresentada aguardando a confirmação do usuário |
+|                                                                                                                                                    Modal de confirmação de ação:                                                                                                                                                    	|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
+| Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade Editar ou Upload, a mensagem é apresentada aguardando a confirmação do usuário 	|
 | <p align="center"><img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" width="700px"/></p> |
 
 	
@@ -39,12 +39,12 @@ Os usuários terão acesso a dashboard onde terão as seguinte opções:
 |                                      **Novo:**                                       	|
 |:---------------------------------------------------------------------------------:	|
 | Exibe um espaço em branco onde será possível mexer no documento adicionando texto 	|
-|            <img alt="Novo" title="#Novo" src="./images/document.png" />           	|
+|            <img alt="Novo" title="#Novo" src="./images/document.png" width="700px"/>           	|
 
 | **Editar:** 	| Apresenta um modal para carregamento de um arquivo com a extensão específica do Builder TCC 	|
 |:-----------:	|---------------------------------------------------------------------------------------------	|
 | **Upload:** 	| Apresenta um modal para carregamento de um arquivo com qualquer extensão de texto           	|
-| | <img alt="Editar e Upload" title="#Editar e Upload" src="./images/dashboard-edit_upload.png" /> |
+| | <img alt="Editar e Upload" title="#Editar e Upload" src="./images/dashboard-edit_upload.png" width="700px"/> |
 
 
 ## 🛠 Tecnologias
