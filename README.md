@@ -21,12 +21,23 @@ A dashboard é a página inicial que o usuário acessa, ela possui tema claro, e
 |-----------------|----------------|
 | <img alt="Dashboard_Dark" title="#Dashboard Dark Mode" src="./images/dashboard_dark.png" width="800px"/> | <img alt="Dashboard_Light" title="#Dashboard Light Mode" src="./images/dashboard_light.png" width="800px"/> |
 
+| **Modal de confirmação de ação:** |
+|-----------------|
+|Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade **Editar** ou **Upload**, a mensagem é apresentada aguardando a confirmação do usuário |
+| <p align="center"><img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" width="700px"/></p> |
 
-  - **Modal de confirmação de ação:** Para evitar que o usuário cometa erros e acabe perdendo o documento em progresso, é apresentado um modal com uma mensagem para confirmar a ação do usuário, por exemplo: se o usuário está com um documento aberto e tenta acessar as funcionalidade **Editar** ou **Upload**, a mensagem é apresentada aguardando a confirmação do usuário
-<img alt="Modal de confirmação" title="#Modal de confirmação" src="./images/document-edit_upload.png" />
+<p align="center">
+	
+| **Ocultar/Mostrar:** |
+|-----------------|
+|A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo |
+| <p align="center"><img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" width="200px"/></p> |
+
+</p>
+
 
   - **Ocultar/Mostrar:** A sidebar pode ser expandida ou ocultada através dos ícones mostrados abaixo:
-<img alt="Ocultar/Mostrar" title="#Ocultar/Mostrar" src="./images/app-drawer.png" />
+
 
 ### Funcionalidades
 Os usuários terão acesso a dashboard onde terão as seguinte opções:
