@@ -1,9 +1,5 @@
-<h1 align="center">
-    <img alt="BuilderTCC" title="#BuilderTCC" src="./images/banner-2.png" />
-</h1>
-
 <h4 align="center"> 
-	🚧 Builder TCC 🚀 em construção... 🚧
+	📌 Builder TCC 🚀demonstração básica de UI... 📌
 </h4>
 
 
