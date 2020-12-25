@@ -36,15 +36,15 @@ A dashboard é a página inicial que o usuário acessa, ela possui tema claro, e
 
 ### Funcionalidades
 Os usuários terão acesso a dashboard onde terão as seguinte opções:
-- **Novo:** Exibe um espaço em branco onde será possível mexer no documento adicionando texto
-<img alt="Novo" title="#Novo" src="./images/document.png" />
+|                                      **Novo:**                                       	|
+|:---------------------------------------------------------------------------------:	|
+| Exibe um espaço em branco onde será possível mexer no documento adicionando texto 	|
+|            <img alt="Novo" title="#Novo" src="./images/document.png" />           	|
 
-- **Editar:** Apresenta um modal para carregamento de um arquivo com a extensão específica do Builder TCC
-- **Upload:** Apresenta um modal para carregamento de um arquivo com qualquer extensão de texto
-<img alt="Editar e Upload" title="#Editar e Upload" src="./images/dashboard-edit_upload.png" />
-
-- **Editar Perfil:** Exibe as informações do usuário e os campos editáveis para atualização dos dados cadastrais.
-<img alt="Editar Perfil" title="#Editar Perfil" src="./images/account.png" />
+| **Editar:** 	| Apresenta um modal para carregamento de um arquivo com a extensão específica do Builder TCC 	|
+|:-----------:	|---------------------------------------------------------------------------------------------	|
+| **Upload:** 	| Apresenta um modal para carregamento de um arquivo com qualquer extensão de texto           	|
+| | <img alt="Editar e Upload" title="#Editar e Upload" src="./images/dashboard-edit_upload.png" /> |
 
 
 ## 🛠 Tecnologias
