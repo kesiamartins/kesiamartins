@@ -57,11 +57,11 @@ Os usuários terão acesso a dashboard onde terão as seguinte opções:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+- [Node.js](https://nodejs.org/en/)
+- [Vue.js](https://vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Electron](https://www.electronjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 ## 🚀 Como executar o projeto
